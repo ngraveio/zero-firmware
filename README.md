@@ -1,2 +1,2 @@
 # zero-firmware
-NGRAVE zero firmware repo
+This repo will contain the ZERO's firmware at release
