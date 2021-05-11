@@ -1,2 +1,2 @@
 # zero-firmware
-This repo will contain the ZERO's firmware at release
+This repo will contain the ZERO's firmware 
